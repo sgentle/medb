@@ -1,0 +1,17 @@
+{
+  "medb": {
+    "influx": {
+      "hosts": [
+        {
+          "host": "localhost",
+          "port": 8086,
+          "protocol": "http"
+        }
+      ],
+      "database": "medb"
+    }
+  },
+  "github": {
+    "username": "sgentle"
+  }
+}
